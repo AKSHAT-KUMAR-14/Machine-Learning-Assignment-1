@@ -1,0 +1,14 @@
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+ENV/
+env.bak/
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txtvenv.bak/
+
+# System files
+.DS_Store
+Thumbs.db
